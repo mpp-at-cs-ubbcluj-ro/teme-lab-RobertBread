@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestGuava" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-03T16:48:48" hostname="ROBERT" time="0.025">
+  <properties/>
+  <testcase name="Test exemplu" classname="TestGuava" time="0.014"/>
+  <testcase name="First test" classname="TestGuava" time="0.009"/>
+  <system-out><![CDATA[Lista: [Apple, Banana, Cherry]
+Elementul nu există în listă.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
